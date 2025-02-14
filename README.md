@@ -24,3 +24,10 @@ Gabriel Barbosa
 
 arquivo de importação - https://github.com/Gabrielb04/InfoX/blob/main/Banco/infox.sql
 
+2) Após a importação crie a base de dados executando as linhas de comando conforme a imagem
+
+![Descrição da imagem](https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela%202.png)
+
+3) Ainda no MySQL após a criação e configuração do banco de dados crie um usuario com privilegios dba conforme a imagem
+
+   ![Descrição da imagem](https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela%203.png)
