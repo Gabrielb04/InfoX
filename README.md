@@ -3,4 +3,4 @@
 # ☕ Java MySQL - Sistema OS
 Sistema OS é um sistema desktop(Windows, Linux ou MAC) para gestão de ordem de serviços de uma assistência técnica de computadores, notebooks e periféricos.
 
-![sistemaOS]()
+![sistemaOS](https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela.png)
