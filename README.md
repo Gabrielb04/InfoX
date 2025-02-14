@@ -1,2 +1,4 @@
-# InfoX
-Sistema OS: Sistema para gestão de serviços de uma assistência técnica de computadores e notebooks usando Java e MySQL.
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/infoX)
+
+# ☕ Java MySQL - Sistema OS
+Sistema OS é um sistema desktop(Windows, Linux ou MAC) para gestão de ordem de serviços de uma assistência técnica de computadores, notebooks e periféricos.
