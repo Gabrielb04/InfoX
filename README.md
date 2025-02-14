@@ -15,4 +15,8 @@ Gabriel Barbosa
 
 2) Ter um banco de dados local MySQL Workbench 8.0
 
- ![MySQL Workbench 8.0]](https://dev.mysql.com/downloads/)
+ !MySQL Workbench 8.0 https://dev.mysql.com/downloads/
+
+ ### Instalação do banco
+1) Após a instalação e configuração do MySQL na sua maquina , importe o arquivo do banco de dados infox conforme indicado na imagem.
+ (https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela%201.png)
