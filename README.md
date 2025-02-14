@@ -12,3 +12,7 @@ Gabriel Barbosa
 1) Ter o Java **versão 8** instalado (só funciona corretamente nesta versão do Java). 
 
 [download Java 8](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html)
+
+2) Ter um banco de dados local MySQL Workbench 8.0
+
+ ![MySQL Workbench 8.0]](https://dev.mysql.com/downloads/)
