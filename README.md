@@ -19,4 +19,8 @@ Gabriel Barbosa
 
  ### Instalação do banco
 1) Após a instalação e configuração do MySQL na sua maquina , importe o arquivo do banco de dados infox conforme indicado na imagem.
- (https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela%201.png)
+
+![Descrição da imagem](https://raw.githubusercontent.com/Gabrielb04/InfoX/main/assets/Captura%20de%20Tela%201.png)
+
+arquivo de importação - https://github.com/Gabrielb04/InfoX/blob/main/Banco/infox.sql
+
