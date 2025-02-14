@@ -42,6 +42,15 @@ arquivo de importação - https://github.com/Gabrielb04/InfoX/blob/main/Banco/in
 
    ![Descrição da imagem](https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela%205.png)
 
+
+ - provavelmente ira pedir para adcionar esses dois arquivos:
+  
+  [driver MySQL](https://dev.mysql.com/downloads/connector/j/)
+  
+  [rs2xml](https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
+
+  
+
 6) agora baixe e configure o ireport, sendo necessario o uso do java 7 baixando conforme a imagem, adicionando o caminho do java 7 na pasta de config do ireport e  logando com o usuario e senha dba criado no mysql conforme as imagens
 
    ![Descrição da imagem](https://github.com/Gabrielb04/InfoX/blob/main/assets/Captura%20de%20Tela%206.png)
